@@ -8,6 +8,8 @@
 
 - MARCO TEORICO
 
+ ![Teoria 16 1](https://user-images.githubusercontent.com/84397282/133001668-69e222d5-d2f6-45e2-b886-e75d8ffe2364.jpg)
+
 - EXPLICACION DEL PROCEDIMIENTO
 
 - VIDEO
