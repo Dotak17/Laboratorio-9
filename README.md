@@ -2,11 +2,14 @@
 
 - OBJETIVOS GENERALES
 
-Analizar el concepto de fasor tanto en su forma polar como rectangular y   entender cómo realizar transformación con números complejos de forma teórica y usando una calculadora científica 
+Analizar el concepto de fasor tanto en su forma polar como rectangular y   entender cómo realizar transformación con números complejos de forma teórica y  usando una calculadora cientifica con cantidades fasoriales  para el analisis de circuitos ca
 
 - OBJETIVOS ESPECIFICOS
 
+- Explicar como realizar la conversion de numeros complejos desde su forma rectangular
+
 -Utilizar los procesos de transformacion de numeros complejos a su forma polar y biseversa para resolver ejercicios que trabajen con las dos formas en simultaneo
+
 - MARCO TEORICO
 
  ![Teoria 16 1](https://user-images.githubusercontent.com/84397282/133001668-69e222d5-d2f6-45e2-b886-e75d8ffe2364.jpg)
