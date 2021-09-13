@@ -12,7 +12,9 @@
 
 - EXPLICACION DEL PROCEDIMIENTO
 
-![](https://user-images.githubusercontent.com/84998013/133012385-27d1b075-859e-4079-85fc-6fac88b94784.png)
+![](https://user-images.githubusercontent.com/84998013/133012713-c70d033f-2f6c-45c1-8381-4a67dfaefcd0.png)
+
+![](https://user-images.githubusercontent.com/84998013/133012736-57a79b87-3f0b-4902-ae8c-4f6a1eff2ac6.png)
 
 
 ![Ejercicios 1](https://user-images.githubusercontent.com/84397282/133001906-b8f2511c-c910-49f9-b7b4-d78dc9362554.jpg)
