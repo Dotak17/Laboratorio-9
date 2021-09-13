@@ -8,7 +8,11 @@ Analizar el concepto de fasor tanto en su forma polar como rectangular y   enten
 
 - Explicar como realizar la conversion de numeros complejos desde su forma rectangular
 
--Utilizar los procesos de transformacion de numeros complejos a su forma polar y biseversa para resolver ejercicios que trabajen con las dos formas en simultaneo
+- Utilizar los procesos de transformación de números complejos a su forma polar y viceversa para resolver ejercicios que trabajen con las dos formas en simultaneo. 
+
+- Analizar las formulas y el motivo por el cual es conveniente aplicarlas en el desarrollo de las conversiones. 
+
+- Comprobar los resultados obtenidos en los cálculos con los que resultan en la calculadora, verificar si son iguales. 
 
 - MARCO TEORICO
 
@@ -29,9 +33,14 @@ Analizar el concepto de fasor tanto en su forma polar como rectangular y   enten
 
 - CONCLUSIONES
 
-Al realizar las trasformaciones desde sus formas rectangular y polar se puede concluir que son formas de números complejos que
+- Al realizar las trasformaciones desde sus formas rectangular y polar se puede concluir que son formas de números complejos que
 se utilizan para representar cantidades fasoriales, ya que una cantidad fasorial contiene tanto
 magnitud como posición angular.
 
+-  En el caso de transformación polar se aplicaron la fórmula del teorema de Pitágoras y para el ángulo la tangente inversa además se tomó en cuenta la teoría de cuadrantes en el caso de ser necesario se sumó o resto 180 grados.
+
+-  Al comparar los resultados obtenidos en el cálculo con los de las calculadoras concluimos que son iguales. 
 
 - BIBLIOGRAFIA
+
+
