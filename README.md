@@ -20,6 +20,10 @@ Analizar el concepto de fasor tanto en su forma polar como rectangular y   enten
 
 - EXPLICACION DEL PROCEDIMIENTO
 
+![](https://user-images.githubusercontent.com/84998005/133096826-52d723e6-2885-48eb-8d59-e4fa0ba9cc58.png)
+
+![](https://user-images.githubusercontent.com/84998005/133096817-c05ba0dc-a44d-4e6a-8b0b-77147845544c.png)
+
 ![](https://user-images.githubusercontent.com/84998013/133012713-c70d033f-2f6c-45c1-8381-4a67dfaefcd0.png)
 
 ![](https://user-images.githubusercontent.com/84998013/133012736-57a79b87-3f0b-4902-ae8c-4f6a1eff2ac6.png)
