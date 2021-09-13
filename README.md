@@ -29,4 +29,9 @@ Analizar el concepto de fasor tanto en su forma polar como rectangular y   enten
 
 - CONCLUSIONES
 
+Al realizar las trasformaciones desde sus formas rectangular y polar se puede concluir que son formas de números complejos que
+se utilizan para representar cantidades fasoriales, ya que una cantidad fasorial contiene tanto
+magnitud como posición angular.
+
+
 - BIBLIOGRAFIA
