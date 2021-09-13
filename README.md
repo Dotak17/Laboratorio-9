@@ -35,6 +35,8 @@ Analizar el concepto de fasor tanto en su forma polar como rectangular y   enten
 
 - VIDEO
 
+- https://www.youtube.com/watch?v=uvSaPhoaDUw
+
 - CONCLUSIONES
 
 - Al realizar las trasformaciones desde sus formas rectangular y polar se puede concluir que son formas de números complejos que
